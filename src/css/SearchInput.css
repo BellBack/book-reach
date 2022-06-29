@@ -1,0 +1,27 @@
+.search__container {
+  position: sticky;
+  top: 0;
+  background-color: white;
+}
+.search__input{
+  min-width: 225px;
+  min-height: 25px;
+  margin-left: auto;
+
+}
+
+.search__form-input{
+  display: flex;
+  flex-direction: row;
+}
+
+.search__input{
+  padding-left: 15px;
+  font-size: 18px;
+}
+.preloader {
+  max-width: 100%;
+}
+.LoadMoreBtn{
+  cursor: pointer;
+}

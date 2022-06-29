@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/book-seach/static/css/main.bc2c8166.chunk.css",
+    "main.js": "/book-seach/static/js/main.fb907028.chunk.js",
+    "main.js.map": "/book-seach/static/js/main.fb907028.chunk.js.map",
+    "runtime-main.js": "/book-seach/static/js/runtime-main.1a4b104a.js",
+    "runtime-main.js.map": "/book-seach/static/js/runtime-main.1a4b104a.js.map",
+    "static/js/2.d41b3ef0.chunk.js": "/book-seach/static/js/2.d41b3ef0.chunk.js",
+    "static/js/2.d41b3ef0.chunk.js.map": "/book-seach/static/js/2.d41b3ef0.chunk.js.map",
+    "index.html": "/book-seach/index.html",
+    "static/css/main.bc2c8166.chunk.css.map": "/book-seach/static/css/main.bc2c8166.chunk.css.map",
+    "static/js/2.d41b3ef0.chunk.js.LICENSE.txt": "/book-seach/static/js/2.d41b3ef0.chunk.js.LICENSE.txt",
+    "static/media/exit.2b87ced8.svg": "/book-seach/static/media/exit.2b87ced8.svg",
+    "static/media/load-more-arrow.7f4c9330.svg": "/book-seach/static/media/load-more-arrow.7f4c9330.svg",
+    "static/media/loupe-search.efbb0947.svg": "/book-seach/static/media/loupe-search.efbb0947.svg",
+    "static/media/preloader.357ae8b6.gif": "/book-seach/static/media/preloader.357ae8b6.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a4b104a.js",
+    "static/js/2.d41b3ef0.chunk.js",
+    "static/css/main.bc2c8166.chunk.css",
+    "static/js/main.fb907028.chunk.js"
+  ]
+}
